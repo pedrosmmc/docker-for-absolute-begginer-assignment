@@ -2,10 +2,9 @@
 Containerize anything!
 
 
-Overview: I have containerized pedrosmmc/iris.
-Decision tree classifier for iris
-https://scikit-learn.org/stable/modules/tree.html
-Instructions: Run the container for straight classification generation.
-Docker Hub Link:
+Overview: I have containerized pedrosmmc/ubuntu-version.
+Description: Outputs to stdout the contents in /
+Instructions: docker run pedrosmmc/docker-for-absolute-beginner
+Docker Hub Link: https://cloud.docker.com/repository/docker/pedrosmmc/docker-for-absolute-beginner
 Github Link with Dockerfile: https://github.com/pedrosmmc/docker-for-absolute-begginer-assignment/blob/master/Dockerfile
 
